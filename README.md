@@ -34,6 +34,13 @@ The analysis seeks to answer the following questions
    ![Screenshot 30](https://github.com/user-attachments/assets/57027d52-9716-414c-909f-12fe8c96eb48)
 5. Most customers prefer using the call_center
 6. 62.61% of the calls were within the SLA
+### Conclusion
+Billing questions is the reason why most people called and the cause of the high number of very negative sentiments.
+
+### Recommendation
+Look into why customers are having problems with bills. It could be that they are wrongly charged due to a problem with the billing system hence the very negative sentiments.
+
+
 
 
    
