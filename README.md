@@ -6,6 +6,15 @@ This project analyzes call center data to provide insights into customer interac
 3. Call Volume: Tracking the number of calls received over time.
 4. Channel for communication: Understanding customer preferences (email, web, chatbot, call-center.
 ![Screenshot (30)](https://github.com/user-attachments/assets/67060fd8-16c1-484f-aa47-fa5665653f49)
+## Table of contents
+1. [Project Scope](#project-scope)
+2. [Data Source](#data-source)
+3. [Project Tools](#project-tools)
+4. [Data Preparation](#data-preparation)
+5. [Exploratory Data Analysis](#exploratory-data-analysis)
+6. [Findings](#findings)
+7. [Conclusion](#conclusion)
+8. [Recommendation](#recommendation)
 
 ### Project Scope
 The data coovers only the month of October 2020 with over 32,000 rows of data.
