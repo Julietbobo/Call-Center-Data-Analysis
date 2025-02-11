@@ -24,6 +24,8 @@ The data is an excel file sourced from a youtube channel; Call Center.xls
 Excel 
 ### Data Preparation
 - Converted the raw data to a table.
+  ![Screenshot (31)](https://github.com/user-attachments/assets/e752a443-7465-4465-ab37-a1d14203ec6f)
+
 - Changed the column data types where necessary.
 - Applied custom number formats for dates and extracted the specific dates to form a call day column.
 - Creation of pivot tables.
