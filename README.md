@@ -29,6 +29,8 @@ Excel
 - Changed the column data types where necessary.
 - Applied custom number formats for dates and extracted the specific dates to form a call day column.
 - Creation of pivot tables.
+  ![Screenshot (32)](https://github.com/user-attachments/assets/61bc5f94-d634-45e3-b1ad-93cc1e7077bc)
+
 - Visualization with bar charts, line charts, doughnut charts, time slicer and slicers for state, customer sentiments and reason for calling to create an interactive 
  dashboard.
 ### Exploratory data analysis
