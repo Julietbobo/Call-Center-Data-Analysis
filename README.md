@@ -17,7 +17,7 @@ This project analyzes call center data to provide insights into customer interac
 8. [Recommendation](#recommendation)
 
 ### Project Scope
-The data coovers only the month of October 2020 with over 32,000 rows of data.
+The data covers only the month of October 2020 with over 32,000 rows of data.
 ### Data Source
 The data is an excel file sourced from a youtube channel; Call Center.xls
 ### Project Tools
@@ -28,7 +28,7 @@ Excel
 
 - Changed the column data types where necessary.
 - Applied custom number formats for dates and extracted the specific dates to form a call day column.
-- Creation of pivot tables.
+- Creation of pivot tables which helped the different visuals(charts) to be interactive
   ![Screenshot (32)](https://github.com/user-attachments/assets/61bc5f94-d634-45e3-b1ad-93cc1e7077bc)
 
 - Visualization with bar charts, line charts, doughnut charts, time slicer and slicers for state, customer sentiments and reason for calling to create an interactive 
@@ -48,10 +48,12 @@ The analysis seeks to answer the following questions
 5. Most customers prefer using the call_center
 6. 62.61% of the calls were within the SLA
 ### Conclusion
-Billing questions is the reason why most people called and the cause of the high number of very negative sentiments.
+- Billing questions is the reason why most people called 
+- Our clients are not happy about how we serve them on call.
 
 ### Recommendation
-Look into why customers are having problems with bills. It could be that they are wrongly charged due to a problem with the billing system hence the very negative sentiments.
+- Look into why customers are having problems with bills. It could be that they are wrongly charged due to a problem with the billing system.
+- Train the contact center employees on how to satisfactorily serve the clients on call.It could be teaching them how to speak professionally and be welcoming in how they serve the clients.
 
 
 
